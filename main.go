@@ -6,7 +6,7 @@ import (
 )
 
 func main() {
-	tree := tree.NewTree("abc.txt", 3, 512)
+	tree := tree.NewTree("./db_files/capitals.bat", 3, 512)
 
 	// countries and their capitals
 	tree.Put([]byte("India"), []byte("New Delhi"))
