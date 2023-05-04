@@ -1,7 +1,7 @@
 package tree
 
 import (
-	keyvalue "bp-tree/src/key_value"
+	keyvalue "github.com/vaibhavp1964/bp-tree/src/key_value"
 )
 
 // Scan ...

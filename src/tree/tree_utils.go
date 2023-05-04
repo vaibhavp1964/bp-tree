@@ -1,12 +1,13 @@
 package tree
 
 import (
-	atomiccounter "bp-tree/src/atomic_counter"
-	"bp-tree/src/diskmanager"
-	"bp-tree/src/node"
-	"bp-tree/src/nodemanager"
 	"log"
 	"os"
+
+	atomiccounter "github.com/vaibhavp1964/bp-tree/src/atomic_counter"
+	"github.com/vaibhavp1964/bp-tree/src/diskmanager"
+	"github.com/vaibhavp1964/bp-tree/src/node"
+	"github.com/vaibhavp1964/bp-tree/src/nodemanager"
 )
 
 // NewTree ...

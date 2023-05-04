@@ -1,11 +1,12 @@
 package nodemanager
 
 import (
-	"bp-tree/src/diskmanager"
-	"bp-tree/src/node"
 	"bytes"
 	"encoding/gob"
 	"log"
+
+	"github.com/vaibhavp1964/bp-tree/src/diskmanager"
+	"github.com/vaibhavp1964/bp-tree/src/node"
 )
 
 // NodeManager ...

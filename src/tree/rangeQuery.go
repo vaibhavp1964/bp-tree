@@ -1,8 +1,9 @@
 package tree
 
 import (
-	keyvalue "bp-tree/src/key_value"
 	"bytes"
+
+	keyvalue "github.com/vaibhavp1964/bp-tree/src/key_value"
 )
 
 // RangeQuery ...

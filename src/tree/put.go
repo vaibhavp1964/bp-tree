@@ -1,10 +1,11 @@
 package tree
 
 import (
-	keyvalue "bp-tree/src/key_value"
-	"bp-tree/src/node"
 	"bytes"
 	"sort"
+
+	keyvalue "github.com/vaibhavp1964/bp-tree/src/key_value"
+	"github.com/vaibhavp1964/bp-tree/src/node"
 )
 
 // Put ...

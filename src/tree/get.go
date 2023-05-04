@@ -1,8 +1,9 @@
 package tree
 
 import (
-	"bp-tree/src/node"
 	"fmt"
+
+	"github.com/vaibhavp1964/bp-tree/src/node"
 )
 
 // Get ...

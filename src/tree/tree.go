@@ -1,9 +1,10 @@
 package tree
 
 import (
-	atomiccounter "bp-tree/src/atomic_counter"
-	"bp-tree/src/nodemanager"
 	"log"
+
+	atomiccounter "github.com/vaibhavp1964/bp-tree/src/atomic_counter"
+	"github.com/vaibhavp1964/bp-tree/src/nodemanager"
 )
 
 // Tree ...

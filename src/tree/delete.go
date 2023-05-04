@@ -1,6 +1,6 @@
 package tree
 
-import "bp-tree/src/node"
+import "github.com/vaibhavp1964/bp-tree/src/node"
 
 // Delete ...
 func (t *Tree) Delete(key []byte) ([]byte, bool) {

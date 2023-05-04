@@ -1,8 +1,9 @@
 package main
 
 import (
-	"bp-tree/src/tree"
 	"fmt"
+
+	"github.com/vaibhavp1964/bp-tree/src/tree"
 )
 
 func main() {
